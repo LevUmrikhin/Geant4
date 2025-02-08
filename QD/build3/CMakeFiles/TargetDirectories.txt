@@ -1,0 +1,7 @@
+/users/levumrihin/newProject/QD/build3/CMakeFiles/sim.dir
+/users/levumrihin/newProject/QD/build3/CMakeFiles/edit_cache.dir
+/users/levumrihin/newProject/QD/build3/CMakeFiles/rebuild_cache.dir
+/users/levumrihin/newProject/QD/build3/CMakeFiles/list_install_components.dir
+/users/levumrihin/newProject/QD/build3/CMakeFiles/install.dir
+/users/levumrihin/newProject/QD/build3/CMakeFiles/install/local.dir
+/users/levumrihin/newProject/QD/build3/CMakeFiles/install/strip.dir
