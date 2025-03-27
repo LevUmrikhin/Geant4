@@ -1,0 +1,21 @@
+Here's my update for the QD simulation. I've used Omri's scintillation parts but moved everything otherwise out of exampleB4 such that we have better control of what is accessible.
+
+The information saved is the std::vector of wavelengths that hit the PMT in a TTree.
+
+I've attached 2 examples in the example directory:
+1) default-1357
+This should be a reproduction what Omri's code originally did. There is a plotting script which accounts for efficiency and we see much more photons that expected.
+2) yield-1
+I've tried playing with the ScintillationYield, and only if we lower it a LOT, do we get reasonable hits. This is an example with it set to 1 per MeV and is much more in line with what we see, but of course I have no idea what is correct.
+
+To reproduce:
+1) Edit mptScint->AddConstProperty("SCINTILLATIONYIELD", 1357./MeV) in DetectorConstruction
+2) Go into the build directory and compile:
+cmake ..
+make
+3) Change the beamOn number in test.mac
+4) Run via:
+./sim -m test.mac -t 8
+5) Plot via:
+root
+.x plot.C

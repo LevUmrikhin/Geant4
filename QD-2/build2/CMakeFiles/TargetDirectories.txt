@@ -1,0 +1,7 @@
+/users/levumrihin/newProject/QD/build2/CMakeFiles/sim.dir
+/users/levumrihin/newProject/QD/build2/CMakeFiles/edit_cache.dir
+/users/levumrihin/newProject/QD/build2/CMakeFiles/rebuild_cache.dir
+/users/levumrihin/newProject/QD/build2/CMakeFiles/list_install_components.dir
+/users/levumrihin/newProject/QD/build2/CMakeFiles/install.dir
+/users/levumrihin/newProject/QD/build2/CMakeFiles/install/local.dir
+/users/levumrihin/newProject/QD/build2/CMakeFiles/install/strip.dir

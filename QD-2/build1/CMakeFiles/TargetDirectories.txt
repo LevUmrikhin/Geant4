@@ -1,0 +1,7 @@
+/home/usera/newProject/QD/build1/CMakeFiles/sim.dir
+/home/usera/newProject/QD/build1/CMakeFiles/edit_cache.dir
+/home/usera/newProject/QD/build1/CMakeFiles/rebuild_cache.dir
+/home/usera/newProject/QD/build1/CMakeFiles/list_install_components.dir
+/home/usera/newProject/QD/build1/CMakeFiles/install.dir
+/home/usera/newProject/QD/build1/CMakeFiles/install/local.dir
+/home/usera/newProject/QD/build1/CMakeFiles/install/strip.dir

@@ -1,0 +1,15 @@
+/run/initialize 
+/gps/particle mu+
+/gps/pos/type Plane
+/gps/pos/shape Square
+/gps/direction -1 0 0
+/gps/pos/centre -30 0 -13.175 cm
+/gps/pos/halfx 5. cm
+/gps/pos/halfy 5. cm
+/gps/ang/type iso
+/gps/ang/mintheta -0.0296 rad
+/gps/ang/maxtheta 0.117 rad
+/gps/energy 4 GeV
+
+/run/printProgress 100
+/run/beamOn 1000

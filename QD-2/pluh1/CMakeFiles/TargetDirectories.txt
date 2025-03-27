@@ -1,0 +1,7 @@
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/sim.dir
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/edit_cache.dir
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/rebuild_cache.dir
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/list_install_components.dir
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/install.dir
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/install/local.dir
+/Users/levumrihin/newProject/QD-2/pluh1/CMakeFiles/install/strip.dir

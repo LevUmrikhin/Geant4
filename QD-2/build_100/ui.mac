@@ -1,0 +1,25 @@
+/run/initialize
+/vis/open OGLSQt
+/vis/viewer/set/viewpointVector 1 1 1
+/vis/drawVolume
+/vis/viewer/set/autoRefresh true
+/vis/scene/add/trajectories smooth
+/vis/scene/add/scale 10 cm
+/vis/scene/add/axes
+/vis/scene/add/eventID
+/vis/scene/endOfEventAction accumulate
+
+/control/verbose 0
+
+/run/initialize 
+/gps/particle mu+
+/gps/pos/type Plane
+/gps/pos/shape Square
+/gps/direction -1 0 0
+/gps/pos/centre -30 0 -13.175 cm
+/gps/pos/halfx 5. cm
+/gps/pos/halfy 5. cm
+/gps/ang/type iso
+/gps/ang/mintheta -0.0296 rad
+/gps/ang/maxtheta 0.117 rad
+/gps/energy 4 GeV
